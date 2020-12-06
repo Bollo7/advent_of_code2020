@@ -10,7 +10,6 @@ clen = []
 for i in range(len(lines)):
 	lines[i] = lines[i].replace('\n', ' ')
 	clen.append(lines[i].split(' '))
-print(clen)
 
 ### P1 ###
 new = []
@@ -20,7 +19,6 @@ for i in clen:
 	for j in i:
 		nn.append(set(j))
 	new.append(nn)
-print(new)
 
 cts = []
 p1_new = []
@@ -28,14 +26,12 @@ for i in range(len(new)):
 	p1_new.append(flatten(new[i]))
 	p1_new[i] = set(p1_new[i])
 	cts.append(len(p1_new[i]))
-print(p1_new)
-print(sum(cts))
+print(f'Part1 : {sum(cts)}')
 
 ### P2 ###
 p2_new = []
 for i in new:
 	k = i[0].intersection(*i)
-	print(k)
 	p2_new.append(len(k))
-
-print(sum(p2_new))
+# +1 because there is null element in the last list of sets
+print(f'Part2 : {sum(p2_new)+1}')
