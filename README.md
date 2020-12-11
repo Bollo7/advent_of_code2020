@@ -11,3 +11,4 @@
 | 7 | Python | [day7.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv7.py) |
 | 8 | Python | [day8.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv8.py) |
 | 9 | Python | [day9.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv9.py) |
+| 10 | Python | [day10.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv10.py) |
