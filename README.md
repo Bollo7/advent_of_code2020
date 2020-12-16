@@ -13,7 +13,7 @@
 | 9 | Python | [adv9.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv9.py) |
 | 10 | Python | [adv10.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv10.py) |
 | 11 | Python | TODO |
-| 12 | Python | TODO |
+| 12 | Python | [adv12.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv10.py) |
 | 13 | Python | [adv13.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv13.py) |
 | 14 | Python | [adv14.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv14.py) |
 | 15 | Python | [adv15.py](https://github.com/Bollo7/advent_of_code2020/blob/main/adv15.py) |
